@@ -1,0 +1,61 @@
+id,storenum,storename,Address,Province,city,PostalCode,status,long,lat,opendate,closedate,urbanicity,censusregion,formatconcept,franchisecorporate,Sales12startdate,Sales12EndDate,SalesRY,District
+1,001,WinnieHotel - 001,155 Balmoral Ave,Ontario,Toronto,M4V1J5,Open,-79.40003,43.684237,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+2,002,WinnieHotel - 002,505 Kingston Rd,Ontario,Toronto,M4L1V5,Open,-79.30233,43.677247,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+3,003,WinnieHotel - 003,55 Belmont St,Ontario,Toronto,M5R1R1,Open,-79.39096,43.674670,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+4,004,WinnieHotel - 004,180 Sheridan Ave,Ontario,Toronto,M6K3C7,Open,-79.43469,43.651612,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+5,005,WinnieHotel - 005,54 Foxbar Rd,Ontario,Toronto,M4V 2G6,Open,-79.40059,43.685747,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+6,006,WinnieHotel - 006,123 Spadina Rd,Ontario,Toronto,M5R2T1,Open,-79.40550,43.671741,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+7,007,WinnieHotel - 007,265 Queen's Dr,Ontario,Toronto,M6L3C6,Open,-79.50431,43.707176,1/1/2020,,,,WinnieHotel,Franchise,,,,NORTH YORK
+8,008,WinnieHotel - 008,303 Queen's Dr,Ontario,Toronto,M6L3C1,Open,-79.50217,43.707482,1/1/2020,,,,WinnieHotel,Franchise,,,,NORTH YORK
+9,009,WinnieHotel - 009,66 Roncesvalles Ave,Ontario,Toronto,M6R 3A7,Open,-79.44730,43.640190,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+10,010,WinnieHotel - 010,14 De-Savery Cres,Ontario,Toronto,M4S2L2,Open,-79.38983,43.703091,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+11,011,WinnieHotel - 011,251 St George St,Ontario,Toronto,M5R2M2,Open,-79.40166,43.672909,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+12,012,WinnieHotel - 012,165 Elm Ridge Dr,Ontario,Toronto,M6B1B2,Open,-79.43880,43.702432,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+13,013,WinnieHotel - 013,877 Yonge St,Ontario,Toronto,M4W3M2,Open,-79.38797,43.674248,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+14,014,WinnieHotel - 014,645 Castlefield Ave,Ontario,Toronto,M5N3A5,Open,-79.42523,43.706244,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+15,015,WinnieHotel - 015,17 Glebe Rd W,Ontario,Toronto,M5P 1C8,Open,-79.39769,43.700453,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+16,016,WinnieHotel - 016,1 Northwestern Ave,Ontario,Toronto,M6M2J7,Open,-79.46978,43.697936,1/1/2020,,,,WinnieHotel,Franchise,,,,YORK
+17,017,WinnieHotel - 017,111 Avenue Rd,Ontario,Toronto,M5R3J8,Open,-79.39547,43.673192,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+18,018,WinnieHotel - 018,101 Lawton Blvd,Ontario,Toronto,M4V1Z6,Open,-79.39674,43.693696,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+19,019,WinnieHotel - 019,84 Davisville Ave,Ontario,Toronto,M4S1G1,Open,-79.39319,43.699518,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+20,020,WinnieHotel - 020,1140 Bloor St W,Ontario,Toronto,M6H4E6,Open,-79.43601,43.659934,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+21,021,WinnieHotel - 021,921 Millwood Rd,Ontario,Toronto,M4G1X2,Open,-79.36361,43.702923,1/1/2020,,,,WinnieHotel,Franchise,,,,EAST YORK
+22,022,WinnieHotel - 022,4 Teddington Park Ave,Ontario,Toronto,M4N2C3,Open,-79.40390,43.733457,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+23,023,WinnieHotel - 023,1035 Eglinton Ave W,Ontario,Toronto,M6C2C8,Open,-79.43227,43.699287,1/1/2020,,,,WinnieHotel,Franchise,,,,YORK
+24,024,WinnieHotel - 024,1238 Queen St E,Ontario,Toronto,M4L1C3,Open,-79.32973,43.6635719,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+25,025,WinnieHotel - 025,720 Mount Pleasant Rd,Ontario,Toronto,M4S2N6,Open,-79.38981,43.706528,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+26,026,WinnieHotel - 026,305 Balliol St,Ontario,Toronto,M4S3H5,Open,-79.38694,43.6989606,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+27,027,WinnieHotel - 027,33 Christie St,Ontario,Toronto,M6G3B1,Open,-79.41859, 43.66477,1/1/2020,,,,WinnieHotel,Franchise,,,,TORONTO
+28,028,WinnieHotel - 028,52 Neilson Dr,Ontario,Toronto,M9C1V7,Open,-79.56528,43.629155,1/1/2020,,,,WinnieHotel,Franchise,,,,ETOBICOKE
+29,029,WinnieHotel - 029,197 Royal York Rd,Ontario,Toronto,M8V2V5,Open,-79.49610,43.611431,1/1/2020,,,,WinnieHotel,Franchise,,,,ETOBICOKE
+30,030,WinnieHotel - 030,4251 Dundas St W,Ontario,Toronto,M8X2Z5,Open,-79.51445,43.658872,1/1/2020,,,,WinnieHotel,Franchise,,,,ETOBICOKE
+31,031,TheoResto - 031,51 Lake Shore Dr,Ontario,Toronto,M8V1Z3,Open,-79.50010,43.597699,1/1/2020,,,,TheoResto,Franchise,,,,ETOBICOKE
+32,032,TheoResto - 032,25 Centennial Park Rd,Ontario,Toronto,M9C5H1,Open,-79.58205,43.653256,1/1/2020,,,,TheoResto,Franchise,,,,ETOBICOKE
+33,033,TheoResto - 033,33 Wilmington Ave,Ontario,Toronto,M3H5J1,Open,-79.45310,43.754548,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+34,034,TheoResto - 034,3595 Keele St,Ontario,Toronto,M3J1M7,Open,-79.48576,43.751123,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+35,035,TheoResto - 035,1057 Don Mills Rd,Ontario,Toronto,M3C1W9,Open,-79.34234,43.734129,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+36,036,TheoResto - 036,8 The Donway E,Ontario,Toronto,M3C3R7,Open,-79.34045,43.734712,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+37,037,TheoResto - 037,880 Lawrence Ave E,Ontario,Toronto,M3C1P6,Open,-79.34876,43.736362,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+38,038,TheoResto - 038,1340 York Mills Rd,Ontario,Toronto,M3A3R1,Open,-79.32017,43.763112,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+39,039,TheoResto - 039,3705 Bathurst St,Ontario,Toronto,M6A2E8,Open,-79.43313,43.735303,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+40,040,TheoResto - 040,38 Lakeside Ave,Ontario,Toronto,M1N 3C1,Open,-79.26541, 43.68822,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+41,041,TheoResto - 041,707 Ellesmere Rd,Ontario,Toronto,M1P2W1,Open,-79.28865,43.763735,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+42,042,TheoResto - 042,520 Markham Rd,Ontario,Toronto,M1H3A1,Open,-79.22491,43.754867,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+43,043,TheoResto - 043,65 Livingston Rd,Ontario,Toronto,M1E1L1,Open,-79.19809,43.745891,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+44,044,TheoResto - 044,1020 McNicoll Ave,Ontario,Toronto,M1W2J6,Open,-79.33600,43.805763,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+45,045,TheoResto - 045,148 Markham Rd,Ontario,Toronto,M1M2Z8,Open,-79.21867,43.740897,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+46,046,TheoResto - 046,3758 Sheppard Ave E,Ontario,Toronto,M1T3K9,Open,-79.29465,43.782055,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+47,047,TheoResto - 047,80 Wychwood Pk,Ontario,Toronto,M6G2V5,Open,-79.41883, 43.67723,1/1/2020,,,,TheoResto,Franchise,,,,TORONTO
+48,048,TheoResto - 048,2339 Dufferin St,Ontario,Toronto,M6E4Z5,Open,-79.44948,43.694759,1/1/2020,,,,TheoResto,Franchise,,,,YORK
+49,049,TheoResto - 049,2100 Bloor St W,Ontario,Toronto,M6S1M7,Open,-79.47099,43.652603,1/1/2020,,,,TheoResto,Franchise,,,,TORONTO
+50,050,TheoResto - 050,15 Barberry Pl,Ontario,Toronto,M2K1G9,Open,-79.38403,43.766403,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+51,051,TheoResto - 051,2601 Bayview Ave,Ontario,Toronto,M2L1B5,Open,-79.38397,43.751455,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+52,052,TheoResto - 052,866 Sheppard Ave W,Ontario,Toronto,M3H2T5,Open,-79.45369,43.752544,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+53,053,TheoResto - 053,718 Sheppard Ave W,Ontario,Toronto,M3H2S6,Open,-79.44533,43.754373,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+54,054,TheoResto - 054,685 Finch Ave W,Ontario,Toronto,M2R1P2,Open,-79.45688,43.770513,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+55,055,TheoResto - 055,55 Ameer Ave,Ontario,Toronto,M6A2Z1,Open,-79.44083,43.728746,1/1/2020,,,,TheoResto,Franchise,,,,NORTH YORK
+56,056,TheoResto - 056,2121 Kingston Rd,Ontario,Toronto,M1N1T5,Open,-79.25410,43.700656,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+57,057,TheoResto - 057,221 Milner Ave,Ontario,Toronto,M1S4P4,Open,-79.24012,43.788338,1/1/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+58,058,TheoResto - 058,264 Millennium Parkway,Ontario,Toronto,K8N4Z5,Open,-79.24013,43.788339,1/2/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+59,059,TheoResto - 059,5003 Old Highway 69,Ontario,Toronto,P3P1A9,Open,-79.24014,43.788340,1/3/2020,,,,TheoResto,Franchise,,,,SCARBOROUGH
+60,060,TheoResto - 060,2050 Yonge St,Ontario,Toronto,M4S1Z9,Open,-79.397566,43.70154,1/3/2020,,,,TheoResto,Franchise,,,,TORONTO
