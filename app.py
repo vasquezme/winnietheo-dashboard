@@ -7,8 +7,8 @@ from dash import dash_table, dcc, html
 
 
 # Load the CSV file
-file_path1 = r"data\WinnieCustomersHUBLOC.csv"  # Update with the correct path
-file_path2 = r"data\WinnieHotelLocations.csv"
+file_path1 = r"data/WinnieCustomersHUBLOC.csv"  # Update with the correct path
+file_path2 = r"data/WinnieHotelLocations.csv"
 
 df_customers = pd.read_csv(file_path1)
 df_hubs = pd.read_csv(file_path2)
