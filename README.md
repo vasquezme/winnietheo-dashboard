@@ -1,6 +1,6 @@
 # winnietheo-dashboard
 
-[https://vasquezme.github.io/winnietheo-dashboard/](https://winnietheo-dashboard.onrender.com/)
+https://winnietheo-dashboard-31rk.onrender.com/
 
 Instructions:
 
